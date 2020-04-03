@@ -1,0 +1,116 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x179c)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\project\U3D5.4.1\DaoDan\EXE\DaoDan_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\project\U3D5.4.1\DaoDan\EXE\DaoDan_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\project\U3D5.4.1\DaoDan\EXE\DaoDan_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\project\U3D5.4.1\DaoDan\EXE\DaoDan_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\project\U3D5.4.1\DaoDan\EXE\DaoDan_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\project\U3D5.4.1\DaoDan\EXE\DaoDan_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\project\U3D5.4.1\DaoDan\EXE\DaoDan_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\project\U3D5.4.1\DaoDan\EXE\DaoDan_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.062 seconds
+Platform assembly: E:\project\U3D5.4.1\DaoDan\EXE\DaoDan_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\project\U3D5.4.1\DaoDan\EXE\DaoDan_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.754500 ms
+Platform assembly: E:\project\U3D5.4.1\DaoDan\EXE\DaoDan_Data\Managed\System.Xml.dll (this message is harmless)
+40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+38
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+右
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UI Root/StartPanel/Shop/ShopItem(Clone)/Model/Ship_2(Clone)"
+ 
+(Filename:  Line: 0)
+
+右
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.030100 ms
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 967.
+Total: 0.433000 ms (FindLiveObjects: 0.052900 ms CreateObjectMapping: 0.039400 ms MarkObjects: 0.268900 ms  DeleteObjects: 0.071000 ms)
+
+左
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+左结束
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+右
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+右结束
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+左
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+左结束
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+目前1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+右
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+可以生成新对了
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+右结束
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+左
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+左结束
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+右
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+右结束
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+左
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 222c -> priority: 1 
